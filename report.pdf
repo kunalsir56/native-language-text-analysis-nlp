@@ -1,1 +1,15 @@
+Software Requirements
 
+The following Python libraries are required to run this project successfully:
+
+Gradio – used to build the interactive web interface
+
+Requests – used for handling HTTP requests to external APIs
+
+gTTS (Google Text-to-Speech) – used to convert text responses into speech
+
+deep-translator – used for language translation between native languages and English
+
+google-generativeai – used to integrate the Gemini AI model for generating responses
+
+These dependencies are listed in the requirements.txt file and can be installed using the pip package manager.
